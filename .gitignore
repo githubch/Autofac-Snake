@@ -1,0 +1,10 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.sln.cache
+*.sln.DotSettings.user
+
+
+/Autofac-Snake/[Bb]in
+/Autofac-Snake/[Oo]bj
