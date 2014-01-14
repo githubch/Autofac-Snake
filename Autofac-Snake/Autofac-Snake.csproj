@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{CB631171-26B0-4E75-BABE-CA42CC7A32CB}</ProjectGuid>
+    <ProjectGuid>{C6BB0B3D-FA62-4FAD-AD64-52B075BC1870}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Autofact_Snake</RootNamespace>
-    <AssemblyName>Autofact-Snake</AssemblyName>
+    <RootNamespace>Autofac_Snake</RootNamespace>
+    <AssemblyName>Autofac-Snake</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

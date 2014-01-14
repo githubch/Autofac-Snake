@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Autofact-Snake")]
+[assembly: AssemblyTitle("Autofac-Snake")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Autofact-Snake")]
+[assembly: AssemblyProduct("Autofac-Snake")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e487bf90-9e7c-43b1-8565-6f7ae7e8baca")]
+[assembly: Guid("4c26bd4d-20cd-41b3-b0d9-b3c05f89b7aa")]
 
 // Version information for an assembly consists of the following four values:
 //
