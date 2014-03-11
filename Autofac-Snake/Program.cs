@@ -11,6 +11,7 @@ namespace Autofac_Snake
             builder.RegisterType <ConsoleOutput>().As<IOutput>();
             builder.RegisterType<TodayWriter>().As<IDateWriter>();
             Container = builder.Build();
+	    Console.WriteLine("Hello");
             WriteDate();
         }
 
